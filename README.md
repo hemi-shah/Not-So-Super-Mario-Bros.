@@ -2,11 +2,11 @@
 A complex Super Mario simulation built using data structures where Mario navigates through 3D levels, interacting with the game world and completing objectives.
 
 ## Identifying Information: 
-Full name: Hemi Shah & Irene Ichwan
-Student ID: 2443456 & 2452538
-Chapman Email: heshah@chapman.edu & ichwan@chapman.edu
-Course number and section: CPSC-350-03
-Assignment or exercise number: PA2: Not So Super Mario Bros.
+- Full name: Hemi Shah & Irene Ichwan
+- Student ID: 2443456 & 2452538
+- Chapman Email: heshah@chapman.edu & ichwan@chapman.edu
+- Course number and section: CPSC-350-03
+- Assignment or exercise number: PA2: Not So Super Mario Bros.
 
 ## Project Description
 This project demonstrates my proficiency in data structures and algorithms, with a focus on arrays, as well as my ability to develop a program in C++. 
