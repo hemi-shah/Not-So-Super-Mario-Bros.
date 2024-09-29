@@ -1,0 +1,4370 @@
+Level 1:
+k x x w b 
+k k c k g 
+c m m g g 
+c c m x k 
+m c g g m 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 0
+Mario Direction: STARTING POINT || Mario Position: Mario's Location: (1, 5) || Mario Current Level: 1
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x w b 
+k k c k g 
+c m m g g 
+c c m x k 
+H c g g m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 0
+Mario Direction: UP || Mario Position: Mario's Location: (1, 4) || Mario Current Level: 1
+Mario picked up a coin!
+============================
+Level 1:
+k x x w b 
+k k c k g 
+c m m g g 
+H c m x k 
+x c g g m 
+Coins: 4
+Goombas: 5
+Nothing: 5
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 1
+Mario Direction: UP || Mario Position: Mario's Location: (1, 3) || Mario Current Level: 1
+Mario picked up a coin!
+============================
+Level 1:
+k x x w b 
+k k c k g 
+H m m g g 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 5
+Nothing: 6
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: LEFT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 1
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x w b 
+k k c k g 
+x m m g H 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 4
+Nothing: 7
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: UP || Mario Position: Mario's Location: (5, 2) || Mario Current Level: 1
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x w b 
+k k c k H 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 8
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 2) || Mario Current Level: 1
+Mario encountered a Koopa!
+Mario lost to a Koopa! His power level has decreased.
+============================
+Level 1:
+k x x w b 
+k k c H x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 8
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 2
+Mario Direction: UP || Mario Position: Mario's Location: (4, 1) || Mario Current Level: 1
+Mario entered a warp pipe!
+Mario warped to level: 2
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k H c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k m x 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 2
+Mario Direction: UP || Mario Position: Mario's Location: (4, 5) || Mario Current Level: 2
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x k k 
+m g k H x 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: UP || Mario Position: Mario's Location: (4, 4) || Mario Current Level: 2
+Mario encountered a Koopa!
+Mario defeated a Koopa!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x H k 
+m g k x x 
+Coins: 5
+Goombas: 5
+Nothing: 5
+Koopas: 4
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: RIGHT || Mario Position: Mario's Location: (5, 4) || Mario Current Level: 2
+Mario encountered a Koopa!
+Mario defeated a Koopa!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x H 
+m g k x x 
+Coins: 5
+Goombas: 5
+Nothing: 6
+Koopas: 3
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 4) || Mario Current Level: 2
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x H x 
+m g k x x 
+Coins: 5
+Goombas: 5
+Nothing: 6
+Koopas: 3
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: LEFT || Mario Position: Mario's Location: (3, 4) || Mario Current Level: 2
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g H x x 
+m g k x x 
+Coins: 5
+Goombas: 5
+Nothing: 6
+Koopas: 3
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 1 || Mario Coins: 2
+Mario Direction: DOWN || Mario Position: Mario's Location: (3, 5) || Mario Current Level: 2
+Mario encountered a Koopa!
+Mario lost to a Koopa! His power level has decreased.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m g H x x 
+Coins: 5
+Goombas: 5
+Nothing: 6
+Koopas: 3
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 2
+Mario Direction: LEFT || Mario Position: Mario's Location: (2, 5) || Mario Current Level: 2
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m H k x x 
+Coins: 5
+Goombas: 4
+Nothing: 7
+Koopas: 3
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 2
+Mario Direction: RIGHT || Mario Position: Mario's Location: (3, 5) || Mario Current Level: 2
+Mario encountered a Koopa!
+Mario defeated a Koopa!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x H x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 2
+Mario Direction: LEFT || Mario Position: Mario's Location: (2, 5) || Mario Current Level: 2
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m H x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m c k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 2
+Mario Direction: DOWN || Mario Position: Mario's Location: (2, 1) || Mario Current Level: 2
+Mario encountered a Boss!
+Mario lost to the boss : (.
+Mario lost a life! Remaining lives: 2
+Mario fights the boss again!
+Mario defeated the Boss!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m c H k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m c H k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 5
+Goombas: 5
+Nothing: 3
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 2
+Mario Direction: LEFT || Mario Position: Mario's Location: (2, 1) || Mario Current Level: 3
+Mario picked up a coin!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m H k k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 3
+Mario Direction: RIGHT || Mario Position: Mario's Location: (3, 1) || Mario Current Level: 3
+Mario encountered a Koopa!
+Mario defeated a Koopa!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x H k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 5
+Koopas: 4
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 3
+Mario Direction: LEFT || Mario Position: Mario's Location: (2, 1) || Mario Current Level: 3
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m H x k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 5
+Koopas: 4
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 3 || Mario Power Level: 0 || Mario Coins: 3
+Mario Direction: UP || Mario Position: Mario's Location: (2, 5) || Mario Current Level: 3
+Mario encountered a Koopa!
+Mario lost a life! Remaining lives: 2
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k w g x m 
+m m g m x 
+c H b k g 
+Coins: 4
+Goombas: 5
+Nothing: 5
+Koopas: 4
+Mushrooms: 5
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 3
+Mario Direction: UP || Mario Position: Mario's Location: (2, 4) || Mario Current Level: 3
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k w g x m 
+m H g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 6
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 3
+Mario Direction: UP || Mario Position: Mario's Location: (2, 3) || Mario Current Level: 3
+Mario entered a warp pipe!
+Mario warped to level: 4
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g k 
+g x k c x 
+m H x c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 3
+Mario Direction: RIGHT || Mario Position: Mario's Location: (3, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g k 
+g x k c x 
+m g H c g 
+m m g c c 
+b c k k m 
+Coins: 5
+Goombas: 5
+Nothing: 4
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 3
+Mario Direction: RIGHT || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario picked up a coin!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x H g 
+m m g c c 
+b c k k m 
+Coins: 4
+Goombas: 5
+Nothing: 5
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 4
+Mario Direction: RIGHT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 4
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x x H 
+m m g c c 
+b c k k m 
+Coins: 4
+Goombas: 4
+Nothing: 6
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 4
+Mario Direction: UP || Mario Position: Mario's Location: (5, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g k 
+g x k c H 
+m g x x x 
+m m g c c 
+b c k k m 
+Coins: 4
+Goombas: 4
+Nothing: 6
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 4
+Mario Direction: UP || Mario Position: Mario's Location: (5, 1) || Mario Current Level: 4
+Mario encountered a Koopa!
+Mario lost to a Koopa! His power level has decreased.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g H 
+g x k c x 
+m g x x x 
+m m g c c 
+b c k k m 
+Coins: 4
+Goombas: 4
+Nothing: 6
+Koopas: 5
+Mushrooms: 5
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 4
+Mario Direction: UP || Mario Position: Mario's Location: (5, 5) || Mario Current Level: 4
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g k 
+g x k c x 
+m g x x x 
+m m g c c 
+b c k k H 
+Coins: 4
+Goombas: 4
+Nothing: 7
+Koopas: 5
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 4
+Mario Direction: DOWN || Mario Position: Mario's Location: (5, 1) || Mario Current Level: 4
+Mario encountered a Koopa!
+Mario defeated a Koopa!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m g H 
+g x k c x 
+m g x x x 
+m m g c c 
+b c k k x 
+Coins: 4
+Goombas: 4
+Nothing: 8
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 4
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 1) || Mario Current Level: 4
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m H x 
+g x k c x 
+m g x x x 
+m m g c c 
+b c k k x 
+Coins: 4
+Goombas: 3
+Nothing: 9
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 4
+Mario Direction: DOWN || Mario Position: Mario's Location: (4, 2) || Mario Current Level: 4
+Mario picked up a coin!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k H x 
+m g x x x 
+m m g c c 
+b c k k x 
+Coins: 3
+Goombas: 3
+Nothing: 10
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 5
+Mario Direction: DOWN || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x H x 
+m m g c c 
+b c k k x 
+Coins: 3
+Goombas: 3
+Nothing: 10
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 5
+Mario Direction: RIGHT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x x H 
+m m g c c 
+b c k k x 
+Coins: 3
+Goombas: 3
+Nothing: 10
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 5
+Mario Direction: DOWN || Mario Position: Mario's Location: (5, 4) || Mario Current Level: 4
+Mario picked up a coin!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x x x 
+m m g c H 
+b c k k x 
+Coins: 2
+Goombas: 3
+Nothing: 11
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 6
+Mario Direction: DOWN || Mario Position: Mario's Location: (5, 5) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x x x 
+m m g c x 
+b c k k H 
+Coins: 2
+Goombas: 3
+Nothing: 11
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 6
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 5) || Mario Current Level: 4
+Mario encountered a Koopa!
+Mario lost to a Koopa! His power level has decreased.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x x x 
+m m g c x 
+b c k H x 
+Coins: 2
+Goombas: 3
+Nothing: 11
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 6
+Mario Direction: UP || Mario Position: Mario's Location: (4, 4) || Mario Current Level: 4
+Mario picked up a coin!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x x x 
+m m g H x 
+b c k k x 
+Coins: 1
+Goombas: 3
+Nothing: 12
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (5, 4) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x x x 
+m m g x H 
+b c k k x 
+Coins: 1
+Goombas: 3
+Nothing: 12
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 4) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x x x 
+m m g H x 
+b c k k x 
+Coins: 1
+Goombas: 3
+Nothing: 12
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g x H x 
+m m g x x 
+b c k k x 
+Coins: 1
+Goombas: 3
+Nothing: 12
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (3, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m g H x x 
+m m g x x 
+b c k k x 
+Coins: 1
+Goombas: 3
+Nothing: 12
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (2, 3) || Mario Current Level: 4
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m H x x x 
+m m g x x 
+b c k k x 
+Coins: 1
+Goombas: 2
+Nothing: 13
+Koopas: 4
+Mushrooms: 4
+
+============================
+Mario Lives: 2 || Mario Power Level: 0 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (2, 4) || Mario Current Level: 4
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m x x x x 
+m H g x x 
+b c k k x 
+Coins: 1
+Goombas: 2
+Nothing: 14
+Koopas: 4
+Mushrooms: 3
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (3, 4) || Mario Current Level: 4
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m x x x x 
+m x H x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 15
+Koopas: 4
+Mushrooms: 3
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (2, 4) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m x x x x 
+m H x x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 15
+Koopas: 4
+Mushrooms: 3
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (2, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m H x x x 
+m x x x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 15
+Koopas: 4
+Mushrooms: 3
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (2, 4) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m x x x x 
+m H x x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 15
+Koopas: 4
+Mushrooms: 3
+
+============================
+Mario Lives: 2 || Mario Power Level: 1 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (1, 4) || Mario Current Level: 4
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+m x x x x 
+H x x x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 16
+Koopas: 4
+Mushrooms: 2
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (1, 3) || Mario Current Level: 4
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+H x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 17
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+x x x x H 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 17
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (1, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+g x k x x 
+H x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 1
+Nothing: 17
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (1, 2) || Mario Current Level: 4
+Mario encountered a Goomba!
+Mario defeated a Goomba!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+H x k x x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (2, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+x H k x x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (1, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+H x k x x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (1, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+x x k x x 
+H x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+x x k x x 
+x x x x H 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+x x k x x 
+x x x H x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+x x k x x 
+x x x x H 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (5, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+x x k x H 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m x x 
+x x k H x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (4, 1) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k m H x 
+x x k x x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 18
+Koopas: 4
+Mushrooms: 1
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (3, 1) || Mario Current Level: 4
+Mario picked up a mushroom and increased his power level!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k H x x 
+x x k x x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 19
+Koopas: 4
+Mushrooms: 0
+
+============================
+Mario Lives: 2 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (3, 2) || Mario Current Level: 4
+Mario encountered a Koopa!
+Mario defeated a Koopa!
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x H x x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (4, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x H x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x H x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x x H 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (5, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x H 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (1, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+H x x x x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (5, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x H 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 2) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x H x 
+x x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x H x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (4, 4) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x x x 
+x x x H x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: UP || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x H x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: RIGHT || Mario Position: Mario's Location: (5, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x x H 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (4, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x H x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (3, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x H x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (2, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x H x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: LEFT || Mario Position: Mario's Location: (1, 3) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+H x x x x 
+x x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (1, 4) || Mario Current Level: 4
+Mario moved into an empty space.
+============================
+Level 1:
+k x x x b 
+k k c k x 
+x m m g x 
+x c m x k 
+x c g g m 
+Coins: 3
+Goombas: 3
+Nothing: 9
+Koopas: 5
+Mushrooms: 4
+
+Level 2:
+w b k k c 
+c c x c m 
+g g m g m 
+c g x x x 
+m x x x x 
+Coins: 5
+Goombas: 4
+Nothing: 8
+Koopas: 2
+Mushrooms: 4
+
+Level 3:
+m x x k c 
+g c c x g 
+k x g x m 
+m x g m x 
+c k b k g 
+Coins: 4
+Goombas: 5
+Nothing: 7
+Koopas: 4
+Mushrooms: 4
+
+Level 4:
+x k x x x 
+x x x x x 
+x x x x x 
+H x x x x 
+b c k k x 
+Coins: 1
+Goombas: 0
+Nothing: 20
+Koopas: 3
+Mushrooms: 0
+
+============================
+Mario Lives: 3 || Mario Power Level: 2 || Mario Coins: 7
+Mario Direction: DOWN || Mario Position: Mario's Location: (1, 5) || Mario Current Level: 4
+Mario encountered a Boss!
+Mario lost to the boss : (.
+Mario lost to the boss! His power level is reduced to 0.
+Mario defeated the Boss!
+Mario beat the game! Congratulations he saved Peach!
