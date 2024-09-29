@@ -1,5 +1,5 @@
 # Not-So-Super-Mario-Bros.
-A complex Super Mario simulation built using data structures such as 3d arrays.
+A complex Super Mario simulation built using data structures where Mario navigates through 3D levels, interacting with the game world and completing objectives.
 
 ## Identifying Information: 
 Full name: Hemi Shah & Irene Ichwan
